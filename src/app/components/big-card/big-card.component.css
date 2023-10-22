@@ -1,5 +1,5 @@
 .container_bigcard{
-  border: solid white 2px;
+ 
   width: 400px;
   height: 500px;
   margin-left: 10px;
@@ -17,8 +17,16 @@
   font-size: 20px;
 }
 
+.big-card-description{
+  margin-top: 20px;
+}
+
 .big-card-description >p {
   color: grey;
-  margin-top: 10px;
 
+}
+
+.big-card-photo{
+  width: 100%;
+  min-width: 400px;
 }
