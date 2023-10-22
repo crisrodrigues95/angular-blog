@@ -1,5 +1,5 @@
 .container__content{
-  border: solid white 1px;
+
   width: 100%;
   height:100%;
   display: flex;
@@ -22,4 +22,6 @@
 
 .content__description >p{
   color: grey;
+  text-align: center;
+  margin-top: 10px;
 }
